@@ -1,0 +1,74 @@
+body{
+  background-color: #E4454A;
+}
+#top{
+font-family: 'Brush Script MT', cursive;
+padding:5%;
+color: white;
+}
+#steps{
+  font-family: 'Brush Script MT', cursive;
+  color: white;
+}
+h2{
+  border-style: groove;
+}
+.timer{
+  font-family: 'Concert One', cursive;
+  font-size: 70px;
+}
+.container{
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+}
+.container-fluid{
+  background-color: #4BAC72;
+  padding: 2rem;
+}
+.nav-link{
+  color: white;
+  font-size: 25px;
+  font-family: 'Brush Script MT', cursive;
+}
+.steps{
+  font-family: 'Brush Script MT', cursive;
+  color: white;
+}
+
+body{
+	width:100%;
+	height:100%;
+	font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+
+h1,h2,h3 {
+	margin:0 0 35px 0;
+	font-family: 'Patua One', cursive;
+	text-transform: uppercase;
+	letter-spacing:1px;
+}
+
+p{
+	margin:0 0 25px;
+	font-size:18px;
+	line-height:1.6em;
+}
+a{
+	color:#26a5d3;
+}
+a:hover,a:focus{
+	text-decoration:none;
+	color:#26a5d3;
+}
+
+#contact{
+	background:#333333;
+	color:#f4f4f4;
+	padding-bottom:80px;
+}
+
+textarea.form-control{
+    height:100px;
+}
